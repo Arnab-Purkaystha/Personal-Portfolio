@@ -334,6 +334,10 @@ section .title::after {
   padding-top: 20px;
 }
 
+.skills-section .title::after {
+  content: "what I know";
+}
+
 .skills-header {
   text-align: center;
   color: #000;
