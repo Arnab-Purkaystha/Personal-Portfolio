@@ -282,7 +282,7 @@ section .title::after {
 }
 
 .about .about-content .left img {
-  height: 400px;
+  height: 410px;
   width: 400px;
   object-fit: cover;
   border-radius: 6px;
@@ -331,7 +331,7 @@ section .title::after {
 }
 
 .skills-section {
-  padding-top: 20px;
+  padding-top: 100px 0;
 }
 
 .skills-section .title::after {
